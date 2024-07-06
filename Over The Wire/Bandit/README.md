@@ -1,4 +1,4 @@
-CTF | OverTheWire | Bandit
+CTF | OverTheWire | Bandit | 2024
 
 prerequisite
 
